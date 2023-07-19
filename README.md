@@ -6,3 +6,5 @@ my first github repo
 -- Interested in Micro services and Cloud technologies using Java
 
 -- my first commit from IDE
+-- I am actually writing with my pens
+-- Spacebar. Hello this is a dictation writing correctly on the notepad.
