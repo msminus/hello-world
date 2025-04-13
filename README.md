@@ -8,3 +8,6 @@ my first github repo
 -- my first commit from IDE
 -- I am actually writing with my pens
 -- Spacebar. Hello this is a dictation writing correctly on the notepad.
+
+-- This commit is from vscode. 
+-- Just before there is a commit to master. Checked in two Java classess. 
