@@ -11,3 +11,6 @@ my first github repo
 
 -- This commit is from vscode. 
 -- Just before there is a commit to master. Checked in two Java classess. 
+
+git config user.name "name"
+git config user.email "email"
