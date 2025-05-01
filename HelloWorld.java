@@ -13,5 +13,6 @@ public class HelloWorld {
         //Git recognizes as exting file and is updated. Showing "M".
         //In the begining it showed as "U" untracking
         //After adding to staged it showed "A"
+        //Checking If this is present in Git
     }
 }
